@@ -1,0 +1,12 @@
+"10. Сharacter strings.exe" (Win32). Загружено "F:\Lessons\Learning C\10. Сharacter strings\x64\Debug\10. Сharacter strings.exe". Символы загружены.
+"10. Сharacter strings.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". Загрузка символов отключена параметром включения и исключения.
+"10. Сharacter strings.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". Загрузка символов отключена параметром включения и исключения.
+"10. Сharacter strings.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". Загрузка символов отключена параметром включения и исключения.
+"10. Сharacter strings.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". Загрузка символов отключена параметром включения и исключения.
+"10. Сharacter strings.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". Загрузка символов отключена параметром включения и исключения.
+Поток 13904 завершился с кодом 0 (0x0).
+"10. Сharacter strings.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". Загрузка символов отключена параметром включения и исключения.
+"10. Сharacter strings.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". Загрузка символов отключена параметром включения и исключения.
+Поток 14780 завершился с кодом 0 (0x0).
+Поток 9024 завершился с кодом 0 (0x0).
+Программа "[1080] 10. Сharacter strings.exe" завершилась с кодом 0 (0x0).

@@ -1,0 +1,11 @@
+"11.1 Memory management exercise.exe" (Win32). Загружено "H:\Learning C\11.1 Memory management exercise\x64\Debug\11.1 Memory management exercise.exe". Символы загружены.
+"11.1 Memory management exercise.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". Загрузка символов отключена параметром включения и исключения.
+"11.1 Memory management exercise.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". Загрузка символов отключена параметром включения и исключения.
+"11.1 Memory management exercise.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". Загрузка символов отключена параметром включения и исключения.
+"11.1 Memory management exercise.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". Загрузка символов отключена параметром включения и исключения.
+"11.1 Memory management exercise.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". Загрузка символов отключена параметром включения и исключения.
+Поток 16064 завершился с кодом 0 (0x0).
+Поток 3360 завершился с кодом 3221225786 (0xc000013a).
+Поток 16000 завершился с кодом 3221225786 (0xc000013a).
+Поток 10408 завершился с кодом 3221225786 (0xc000013a).
+Программа "[14248] 11.1 Memory management exercise.exe" завершилась с кодом 3221225786 (0xc000013a).

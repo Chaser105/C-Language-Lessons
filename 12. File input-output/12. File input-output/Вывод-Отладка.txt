@@ -1,0 +1,11 @@
+"12. File input-output.exe" (Win32). Загружено "H:\Learning C\12. File input-output\x64\Debug\12. File input-output.exe". Символы загружены.
+"12. File input-output.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". Загрузка символов отключена параметром включения и исключения.
+"12. File input-output.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". Загрузка символов отключена параметром включения и исключения.
+"12. File input-output.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". Загрузка символов отключена параметром включения и исключения.
+"12. File input-output.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". Загрузка символов отключена параметром включения и исключения.
+"12. File input-output.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". Загрузка символов отключена параметром включения и исключения.
+Поток 9008 завершился с кодом 0 (0x0).
+Поток 10400 завершился с кодом 3221225786 (0xc000013a).
+Поток 10008 завершился с кодом 3221225786 (0xc000013a).
+Поток 12376 завершился с кодом 3221225786 (0xc000013a).
+Программа "[14332] 12. File input-output.exe" завершилась с кодом 3221225786 (0xc000013a).

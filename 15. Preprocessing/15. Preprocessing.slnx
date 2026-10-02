@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="15. Preprocessing/15. Preprocessing.vcxproj" Id="fae7c49f-e911-4d1f-88e8-d103beb25960" />
+</Solution>

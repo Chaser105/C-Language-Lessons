@@ -1,0 +1,12 @@
+﻿"13. Structures.exe" (Win32). Загружено "F:\Lessons\Learning C\13. Structures\x64\Debug\13. Structures.exe". Символы загружены.
+"13. Structures.exe" (Win32). Загружено "C:\Windows\System32\ntdll.dll". Загрузка символов отключена параметром включения и исключения.
+"13. Structures.exe" (Win32). Загружено "C:\Windows\System32\kernel32.dll". Загрузка символов отключена параметром включения и исключения.
+"13. Structures.exe" (Win32). Загружено "C:\Windows\System32\KernelBase.dll". Загрузка символов отключена параметром включения и исключения.
+"13. Structures.exe" (Win32). Загружено "C:\Windows\System32\vcruntime140d.dll". Загрузка символов отключена параметром включения и исключения.
+"13. Structures.exe" (Win32). Загружено "C:\Windows\System32\ucrtbased.dll". Загрузка символов отключена параметром включения и исключения.
+Поток 17212 завершился с кодом 0 (0x0).
+"13. Structures.exe" (Win32). Загружено "C:\Windows\System32\kernel.appcore.dll". Загрузка символов отключена параметром включения и исключения.
+"13. Structures.exe" (Win32). Загружено "C:\Windows\System32\msvcrt.dll". Загрузка символов отключена параметром включения и исключения.
+Поток 11684 завершился с кодом 0 (0x0).
+Поток 15844 завершился с кодом 0 (0x0).
+Программа "[2888] 13. Structures.exe" завершилась с кодом 0 (0x0).
